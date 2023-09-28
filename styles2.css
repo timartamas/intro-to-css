@@ -1,0 +1,20 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.changefontsize{
+    font-size:24px;
+    
+}
+
+#secondrow {
+    font-size:36px;
+    color:blue;
+}
+
+#fourthrow{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
+}

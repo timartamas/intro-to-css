@@ -1,7 +1,18 @@
-div {
-    color: white;
-    background-color: red;
-    text-align: center;
-    font-size: 32px;
-    font-weight: bold;
+body{
+    font-family:monospace;
+}
+
+
+
+#xyz {
+    background-color: black;
+    color:pink;
+}
+
+.A{
+    color:red;
+}
+.B{
+    color:red;
+    font-style: italic;
 }
